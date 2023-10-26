@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @elfat-py
-- 👀 I’m interested in ...Machine Learning, Neural Networks, Reverse Engineering
-- 🌱 I’m currently learning ...Machine learning with Python 
+Currently studing... ML, MT4, MT5, appDev
 
 - 📫 How to reach me ...(elfatmemaj@gmail.com)
 
