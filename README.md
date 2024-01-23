@@ -1,7 +1,5 @@
 Currently studing... ML, MT4, MT5, appDev, webdev
 
-
-- 📫 How to reach me ...(elfatmemaj1@gmail.com)
 So tired building boring console apps that i might built a real one!
 
 ONCE I SOLVED A BUG ...
