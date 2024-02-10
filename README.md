@@ -1,4 +1,4 @@
-Currently studing... ML, MT4, MT5, appDev, webdev
+Currently studing... ML, appDev, webdev, automatization
 
 So tired building boring console apps that i might built a real one!
 
