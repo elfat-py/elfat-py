@@ -1,6 +1,6 @@
 Currently studing... ML, appDev, webdev, automatization
 
-So tired building boring console apps that i might built a real one!
+So tired building boring console apps that I started building some REAl ones
 
 ONCE I SOLVED A BUG ...
 Still solving a bug
