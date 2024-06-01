@@ -1,4 +1,4 @@
-Currently studing... ML, appDev, webdev, automatization
+Currently studing... ML(python), webdev(php, laravel), automatization(python, scrapy)
 
 So tired building boring console apps that I started building some REAl ones
 
