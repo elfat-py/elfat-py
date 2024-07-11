@@ -5,7 +5,6 @@ So tired building boring console apps that I started building some REAl ones
 ONCE I SOLVED A BUG ...
 Still solving a bug
 
-[My Committers.top Rank](https://committers.top/albania#elfat-py)
 [![My Committers.top Rank](https://img.shields.io/badge/committers.top-rank%20%2393-green)](https://committers.top/albania#elfat-py)
 
 <!---
