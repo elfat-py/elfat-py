@@ -6,6 +6,7 @@ ONCE I SOLVED A BUG ...
 Still solving a bug
 
 [My Committers.top Rank](https://committers.top/albania#elfat-py)
+[![My Committers.top Rank](https://img.shields.io/badge/committers.top-rank%20%2393-green)](https://committers.top/albania#your-username)
 
 <!---
 elfat-py/elfat-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
